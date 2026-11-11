@@ -4,8 +4,8 @@ STK Pilot in Krasnodar, Russia: Systeme Electric Drift Challenge Round 1, conver
 
 ## Credits
 
-- Original Assetto Corsa track: **HighSpeedGarage**
-- FBX source and LFS conversion work: **Unry Works**
+- Original Assetto Corsa track: **Unry Works**
+- FBX source and LFS conversion work: **HighSpeedGarage**
 - LFS packaging: **lfs-track-builder**
 
 ## Install
